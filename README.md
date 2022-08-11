@@ -1,6 +1,6 @@
 # lab6provider
 
-To-do list mobile application using provider
+Taking notes mobile application using provider
 
 A new Flutter application.
 
